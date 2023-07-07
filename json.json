@@ -2,7 +2,7 @@
   "ADS": {
 
 
-    "networkAd": "startapp",
+    "networkAd": "xxx",
    
     "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -12,7 +12,7 @@
     "max_banner": "13482be8f771efc7",
     "Native_max": "76d87171404718ed",
 
-    "startapp_id": "139480955",
+    "startapp_id": "xxxx",
 
     "show_cpa": false,
     "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
@@ -38,24 +38,40 @@
     "url_exit": "https://www.google.com/",
     "url_bottom_coins": "https://www.google.com/",
 
-    "Text_tips1": "Welcome Test Badr",
-    "Text_tips2": "Welcome Test Badr2",
-    "Text_tips3": "Welcome Test Badr3",
-    "Text_tips4": "Welcome Test Badr4",
-    "Text_tips5": "Welcome Test Badr5",
-    "Text_tips6": "Welcome Test Badr6",
-    "Text_tips7": "Welcome Test Badr7",
-    "Text_tips8": "Welcome Test Badr8",
+    "Text_tips1": "The Ghost Trick: Phantom Detective guide introduces you to the captivating mystery game."
+"Learn the intricate mechanics and controls of Ghost Trick: Phantom Detective."
+"Discover the intriguing storyline and unravel the secrets behind the supernatural phenomena."
+"Master the art of manipulating objects and interacting with the environment as a ghost."
+"Explore different locations and uncover clues to progress through the game."
+"Learn how to possess and manipulate the actions of living characters to alter the course of events."
+"Discover the unique abilities and powers you possess as a ghost in Ghost Trick: Phantom Detective."
+"Find out how to solve puzzles and overcome obstacles using your ghostly abilities."
+"Learn about the fascinating cast of characters and their roles in the story."
+"Discover the hidden connections and mysteries that intertwine the characters' fates."
+"Master the time manipulation feature to rewind and alter past events."
+"Learn how to strategically use your limited number of Ghost Tricks to progress in the game."
+"Discover the stunning visuals and atmospheric soundtrack that enhance the gameplay experience."
+"Find tips and hints for challenging puzzles and tricky situations in Ghost Trick: Phantom Detective."
+"Learn about the multiple endings and the impact of your choices on the storyline."
+"Explore the Ghost Trick: Phantom Detective guide to fully immerse yourself in this captivating detective adventure."
+",
+    "Text_tips2": "Learn the intricate mechanics and controls of Ghost Trick: Phantom Detective.",
+    "Text_tips3": "Discover the intriguing storyline and unravel the secrets behind the supernatural phenomena",
+    "Text_tips4": "Master the art of manipulating objects and interacting with the environment as a ghost",
+    "Text_tips5": "Explore different locations and uncover clues to progress through the game.",
+    "Text_tips6": "Discover the unique abilities and powers you possess as a ghost in Ghost Trick: Phantom Detective.",
+    "Text_tips7": "Find out how to solve puzzles and overcome obstacles using your ghostly abilities",
+    "Text_tips8": "Learn about the fascinating cast of characters and their roles in the story.",
 
 
-    "Text_title1": "Test Badr",
-    "Text_title2": "Test Badr2",
-    "Text_title3": "Test Badr3",
-    "Text_title4": "Test Badr4",
-    "Text_title5": "Test Badr5",
-    "Text_title6": "Test Badr6",
-    "Text_title7": "Test Badr7",
-    "Text_title8": "Test Badr8",
+    "Text_title1": "Discover the hidden connections and mysteries that intertwine the characters' fates.",
+    "Text_title2": "Master the time manipulation feature to rewind and alter past events",
+    "Text_title3": "Learn how to strategically use your limited number of Ghost Tricks to progress in the game",
+    "Text_title4": "Discover the stunning visuals and atmospheric soundtrack that enhance the gameplay experience.",
+    "Text_title5": "Find tips and hints for challenging puzzles and tricky situations in Ghost Trick: Phantom Detective.",
+    "Text_title6": "Find tips and hints for challenging puzzles and tricky situations in Ghost Trick: Phantom Detective",
+    "Text_title7": "Learn about the multiple endings and the impact of your choices on the storyline",
+    "Text_title8": "Explore the Ghost Trick: Phantom Detective guide to fully immerse yourself in this captivating detective adventure",
 
 
     "Text_buttonCoins" : "Male",
@@ -66,7 +82,7 @@
 
     "CpaAds" : "false",
 
-    "Click_inter": "xxxx"
+    "Click_inter": "1"
 
   }
 }
